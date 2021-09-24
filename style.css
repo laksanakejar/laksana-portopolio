@@ -1,0 +1,39 @@
+body{
+    background-image: url(images.jpeg);
+    color: cyan 
+}
+h2{
+    color: cyan;
+}
+.judul{
+    align-items: center;
+    background-color: #ff5100;
+}
+.container{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.pindah{
+    background-color: rgba(255, 0, 0, 0.315);
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    border-radius: 10px;
+}
+.teks1{
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: fit-content;
+}
+.teks2{
+    background-color: rgba(255, 0, 0, 0.315);
+    width: fit-content;
+    margin-left: auto;
+    margin-right: 1%;
+    width: fit-content;
+    border-radius: 10px;
+    padding-left: 24%;
+}
